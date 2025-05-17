@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Journey to the Center of the Earth",
+        "author": "Jules Verne",
+        "year": 1864,
+        "genre": "Adventure",
+        "read": false
+    },
+    {
+        "title": "Harry Potter and the Philosopher's Stone",
+        "author": "J.K. Rowling",
+        "year": 1997,
+        "genre": "Fantasy",
+        "read": true
+    },
+    {
+        "title": "In the Line of Fire",
+        "author": "Pervez Musharraf",
+        "year": 2006,
+        "genre": "Autobiography",
+        "read": false
+    }
+]
